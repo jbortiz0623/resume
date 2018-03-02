@@ -1,4 +1,22 @@
-body {
-background
+h1 {
 
+  color: blue;
+}
+ body {
+
+   background-color: rgb(48, 67, 132);
+ }
+
+ h2 {
+
+   color: green;
+ }
+
+h1 {
+
+  color: white;
+}
+
+.img-circle {
+  border-radius: 50%;
 }
